@@ -8,7 +8,7 @@ int main()  {
     MyClass mc3;
     MyClass mc4;
     MyClass mc5;
-    
+
 
 
 
