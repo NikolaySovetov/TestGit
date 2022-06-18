@@ -9,5 +9,7 @@ int main()  {
     MyClass mc4;
     MyClass mc5;
 
+    // any logic
+
     return 0;
 }
