@@ -8,8 +8,8 @@ class MyClass {
     int c;
 
   public:
-    MyClass() {}
-    ~MyClass() {}
+    MyClass() { std::cout << "MyClass\n"; }
+    ~MyClass() { std::cout << "~MyClass\n";}
 
     void DoSomething()  {}
 };
