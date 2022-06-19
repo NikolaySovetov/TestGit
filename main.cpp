@@ -12,8 +12,7 @@ int main()  {
     NewClass nc1;
     NewClass nc2;
     NewClass nc3;
-    NewClass nc4;
-    NewClass nc5;
+
 
     return 0;
 }
