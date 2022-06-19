@@ -14,3 +14,15 @@ class MyClass {
     void DoSomething()  {}
 };
 
+class NewClass {
+  private:
+    float a;
+    float b;
+    float c;
+
+  public:
+    NewClass() { std::cout << "NewClass\n"; }
+    ~NewClass() { std::cout << "~NewClass\n";}
+
+    void DoSomething()  {}
+};

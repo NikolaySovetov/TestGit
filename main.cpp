@@ -9,8 +9,11 @@ int main()  {
     MyClass mc4;
     MyClass mc5;
 
-
-
+    NewClass nc1;
+    NewClass nc2;
+    NewClass nc3;
+    NewClass nc4;
+    NewClass nc5;
 
     return 0;
 }
